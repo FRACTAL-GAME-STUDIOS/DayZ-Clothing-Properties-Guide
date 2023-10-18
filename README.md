@@ -2,6 +2,7 @@
 # DayZ Clothing Properties Guide
 
 Welcome to the `DayZ-Clothing-Properties-Guide` repository. This guide is primarily aimed at providing detailed information about available properties related to clothing in DayZ's config files for modders. It is intended to serve as a quick reference for those interested in modding and customizing DayZ's clothing items.
+All this repository has been made by AI to speed up the process, sorry for the possible inconsistencies, I will try to add manually and with research each value.
 
 ## Repository Structure
 
