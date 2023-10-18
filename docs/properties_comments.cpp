@@ -1,812 +1,885 @@
-// Still investigating
+// Property related to the item's AttType characteristic.
+// Values found: Boots
 AttType = <value>;
 
-// Still investigating
+// Property related to the item's BoneNames[] characteristic.
 BoneNames[] = <value>;
 
-// Still investigating
+// Property related to the item's ContinuouActions[] characteristic.
+// Values found: AT_WRING_CLOTHES
 ContinuouActions[] = <value>;
 
-// Still investigating
+// Property related to the item's DirFilterSpeed characteristic.
 DirFilterSpeed = <value>;
 
-// Still investigating
+// Property related to the item's DirFilterTimeout characteristic.
 DirFilterTimeout = <value>;
 
-// Still investigating
+// Property related to the item's HeadDirFilterSpeed characteristic.
 HeadDirFilterSpeed = <value>;
 
-// Still investigating
+// Property related to the item's HeadDirFilterTimeout characteristic.
 HeadDirFilterTimeout = <value>;
 
-// Still investigating
+// Property related to the item's Icon characteristic.
 Icon = <value>;
 
-// Still investigating
+// Property related to the item's MaxSprintAngle characteristic.
 MaxSprintAngle = <value>;
 
-// Still investigating
+// Property related to the item's NVOptic characteristic.
+// Values found: 1
 NVOptic = <value>;
 
-// Still investigating
+// Property related to the item's P3DProxies[] characteristic.
 P3DProxies[] = <value>;
 
-// Still investigating
+// Property related to the item's RefTexsMats[] characteristic.
+// Values found: dz\characters\backpacks\data\bp_improvised.rvmat, dz\characters\glasses\data\eyemask.rvmat
 RefTexsMats[] = <value>;
 
-// Still investigating
+// Property related to the item's RunSpringMaxChange characteristic.
 RunSpringMaxChange = <value>;
 
-// Still investigating
+// Property related to the item's RunSpringTimeout characteristic.
 RunSpringTimeout = <value>;
 
-// Still investigating
+// Property related to the item's VoNRanges[] characteristic.
 VoNRanges[] = <value>;
 
-// Item's ability to absorb moisture.
+// Indicates the item's ability to absorb moisture.
+// Values found: 0.1, 0.2
 absorbency = 0.7;
 
-// Accuracy of the item, typically related to weapons.
+// Property related to the item's accuracy characteristic.
+// Values found: 0
 accuracy = 1.0;
 
-// Still investigating
+// Property related to the item's action characteristic.
 action = <value>;
 
-// Still investigating
+// Property related to the item's actionSounds characteristic.
 actionSounds = <value>;
 
-// Still investigating
+// Property related to the item's afMax characteristic.
+// Values found: 30
 afMax = <value>;
 
-// Still investigating
-aiAgentTemplate = <value>;
-
-// Still investigating
+// Property related to the item's aimMaxDistance characteristic.
 aimMaxDistance = <value>;
 
-// Still investigating
+// Property related to the item's aimMinDistance characteristic.
 aimMinDistance = <value>;
 
-// Still investigating
+// Property related to the item's aimSpeed characteristic.
 aimSpeed = <value>;
 
-// Still investigating
+// Property related to the item's allowOnAnimal characteristic.
 allowOnAnimal = <value>;
 
-// Still investigating
+// Property related to the item's allowOnInfected characteristic.
 allowOnInfected = <value>;
 
-// Still investigating
+// Property related to the item's allowOnPlayer characteristic.
 allowOnPlayer = <value>;
 
-// Still investigating
+// Property related to the item's allowOwnedCargoManipulation characteristic.
+// Values found: 1
 allowOwnedCargoManipulation = <value>;
 
-// Amount of ammunition the item can hold.
+// Property related to the item's ammo characteristic.
+// Values found: MeleeMachete_Heavy
 ammo = 30;
 
-// Type of ammunition the item uses (if it's a weapon).
+// Type of attack mode associated with the item.
+// Values found: MeleeMummyInfected
 ammoType = "9mm";
 
-// Still investigating
+// Property related to the item's angle characteristic.
+// Values found: 70
 angle = <value>;
 
-// Still investigating
+// Property related to the item's angleInnerRatio characteristic.
+// Values found: 0.25
 angleInnerRatio = <value>;
 
-// Still investigating
+// Property related to the item's anim characteristic.
+// Values found: dz\anims\data\anim\fce\Combat.rtm
 anim = <value>;
 
-// Still investigating
+// Property related to the item's animClass characteristic.
+// Values found: Binoculars
 animClass = <value>;
 
-// Still investigating
+// Property related to the item's animEventIds[] characteristic.
 animEventIds[] = <value>;
 
-// Still investigating
+// Property related to the item's animGraph characteristic.
 animGraph = <value>;
 
-// Still investigating
+// Property related to the item's animPeriod characteristic.
+// Values found: 0.0099999998, 0.30000001
 animPeriod = <value>;
 
-// Still investigating
+// Property related to the item's animalBonePairs[] characteristic.
 animalBonePairs[] = <value>;
 
 // Indicates if the item has associated animations.
+// Values found: 1
 animated = 1;
 
-// Still investigating
+// Property related to the item's attachmentAction characteristic.
+// Values found: 1
 attachmentAction = <value>;
 
-// Still investigating
+// Property related to the item's attachments[] characteristic.
+// Values found: Vest, Belt_Left, BatteryD, NVG, Back, helmetFlashlight, Eyewear, Headgear, WalkieTalkie, Knife, Hook
 attachments[] = <value>;
 
-// Still investigating
+// Property related to the item's attackName characteristic.
+// Values found: crawlAttackStill
 attackName = <value>;
 
-// Still investigating
+// Property related to the item's attackSounds characteristic.
+// Values found: zombie_attack
 attackSounds = <value>;
 
-// Still investigating
+// Property related to the item's attackWidth characteristic.
+// Values found: 2
 attackWidth = <value>;
 
-// Still investigating
+// Property related to the item's autoSwitchOffWhenInCargo characteristic.
+// Values found: 1
 autoSwitchOffWhenInCargo = <value>;
 
-// Still investigating
+// Property related to the item's autocenter characteristic.
+// Values found: 0
 autocenter = <value>;
 
-// Still investigating
+// Property related to the item's biological characteristic.
+// Values found: 0
 biological = <value>;
 
 // Brightness of the item, typically related to light sources.
+// Values found: 1
 brightness = 0.8;
 
-// Still investigating
+// Property related to the item's cameraDir characteristic.
+// Values found: cameraDir
 cameraDir = <value>;
 
-// Still investigating
+// Property related to the item's canBeDigged characteristic.
+// Values found: 1
 canBeDigged = <value>;
 
-// Still investigating
+// Property related to the item's canCarryBackPack characteristic.
 canCarryBackPack = <value>;
 
-// Still investigating
+// Property related to the item's change characteristic.
 change = <value>;
 
-// Still investigating
+// Property related to the item's chaseSounds characteristic.
+// Values found: zombie_chase
 chaseSounds = <value>;
 
-// Still investigating
+// Property related to the item's chemical characteristic.
+// Values found: 0.5, 1
 chemical = <value>;
 
-// Still investigating
+// Property related to the item's clothingType characteristic.
+// Values found: female
 clothingType = <value>;
 
-// Color of the item.
-color = "blue";
-
-// Still investigating
+// Property related to the item's color[] characteristic.
+// Values found: 0, 1, 0.55000001
 color[] = <value>;
 
-// Still investigating
+// Property related to the item's componentNames[] characteristic.
+// Values found: dmg_all, RightFoot
 componentNames[] = <value>;
 
-// Cooldown time after an action with the item is performed.
+// Property related to the item's cooldown characteristic.
+// Values found: 1.25
 cooldown = 5;
 
-// Still investigating
+// Property related to the item's count characteristic.
 count = <value>;
 
-// Still investigating
+// Property related to the item's crosshairWidth characteristic.
 crosshairWidth = <value>;
 
-// Still investigating
+// Property related to the item's customHeads[] characteristic.
 customHeads[] = <value>;
 
-// Amount of damage the item can inflict or receive.
-damage = 0.5;
-
-// Still investigating
+// Property related to the item's dayLight characteristic.
+// Values found: 1
 dayLight = <value>;
 
-// Still investigating
+// Property related to the item's debugDraw characteristic.
 debugDraw = <value>;
 
-// Still investigating
+// Property related to the item's debug_ItemCategory characteristic.
+// Values found: 9
 debug_ItemCategory = <value>;
 
-// Still investigating
-decayedTexture = <value>;
-
-// Still investigating
+// Property related to the item's defaultInstance characteristic.
 defaultInstance = <value>;
 
-// Still investigating
+// Property related to the item's defaultinstance characteristic.
+// Values found: dz\anims\workspaces\infected\infected_main\infected_main.asi
 defaultinstance = <value>;
 
-// Short description of the item.
-descriptionShort = "Una camiseta azul hecha de algod�n.";
-
-// Still investigating
+// Property related to the item's direction characteristic.
+// Values found: beamEnd
 direction = <value>;
 
-// Still investigating
+// Property related to the item's directories[] characteristic.
 directories[] = <value>;
 
-// Display name of the item in the game.
-displayName = "Camiseta Azul";
-
-// Still investigating
+// Property related to the item's displayWeight characteristic.
+// Values found: 0
 displayWeight = <value>;
 
-// Still investigating
+// Property related to the item's displayname characteristic.
+// Values found: $STR_CFG_FACES_Default
 displayname = <value>;
 
-// Still investigating
+// Property related to the item's distance characteristic.
+// Values found: 2
 distance = <value>;
 
-// Still investigating
+// Property related to the item's distanceZoomMax characteristic.
+// Values found: 500
 distanceZoomMax = <value>;
 
-// Still investigating
+// Property related to the item's distanceZoomMin characteristic.
+// Values found: 500
 distanceZoomMin = <value>;
 
-// Durability of the item before it breaks or degrades.
+// Property related to the item's durability characteristic.
+// Values found: 0.5
 durability = 100;
 
-// Still investigating
-emptyBody = <value>;
-
-// Still investigating
-emptyFeet = <value>;
-
-// Still investigating
-emptyGloves = <value>;
-
-// Still investigating
-emptyHead = <value>;
-
-// Still investigating
-emptyLegs = <value>;
-
-// Still investigating
+// Property related to the item's enabled characteristic.
 enabled = <value>;
 
-// Still investigating
+// Property related to the item's enabledPS4 characteristic.
 enabledPS4 = <value>;
 
-// Still investigating
+// Property related to the item's enabledXbox characteristic.
 enabledXbox = <value>;
 
-// Still investigating
+// Property related to the item's energyUsagePerSecond characteristic.
+// Values found: 0.0099999998
 energyUsagePerSecond = <value>;
 
-// Still investigating
+// Property related to the item's events[] characteristic.
 events[] = <value>;
 
-// Still investigating
+// Property related to the item's extCamTopZoomCoef characteristic.
 extCamTopZoomCoef = <value>;
 
-// Still investigating
+// Property related to the item's extCameraPositionMoving[] characteristic.
 extCameraPositionMoving[] = <value>;
 
-// Still investigating
+// Property related to the item's extCameraPositionRaisedMoving[] characteristic.
 extCameraPositionRaisedMoving[] = <value>;
 
-// Still investigating
+// Property related to the item's extCameraPositionRaisedWeaponMoving[] characteristic.
 extCameraPositionRaisedWeaponMoving[] = <value>;
 
-// Still investigating
+// Property related to the item's extCameraPositionRaisedWeapon[] characteristic.
 extCameraPositionRaisedWeapon[] = <value>;
 
-// Still investigating
+// Property related to the item's extCameraPositionRaised[] characteristic.
 extCameraPositionRaised[] = <value>;
 
-// Still investigating
+// Property related to the item's extCameraPosition[] characteristic.
 extCameraPosition[] = <value>;
 
-// Still investigating
+// Property related to the item's extCameraSpeedBound[] characteristic.
 extCameraSpeedBound[] = <value>;
 
-// Still investigating
+// Property related to the item's eyeMaxAngle characteristic.
+// Values found: 0.15000001
 eyeMaxAngle = <value>;
 
-// Still investigating
+// Property related to the item's eyelidDownMaxAngle characteristic.
+// Values found: 0.30000001
 eyelidDownMaxAngle = <value>;
 
-// Still investigating
+// Property related to the item's eyelidDownStartAngle characteristic.
+// Values found: 0.090000004
 eyelidDownStartAngle = <value>;
 
-// Still investigating
+// Property related to the item's eyelidUpMaxAngle characteristic.
+// Values found: 1
 eyelidUpMaxAngle = <value>;
 
-// Still investigating
+// Property related to the item's eyelidUpStartAngle characteristic.
+// Values found: 0.40000001
 eyelidUpStartAngle = <value>;
 
-// Still investigating
+// Property related to the item's face characteristic.
 face = <value>;
 
-// Still investigating
-faceType = <value>;
-
-// Faction or group the item belongs to.
+// Property related to the item's faction characteristic.
+// Values found: dz_Civ_US
 faction = "Civilian";
 
-// Still investigating
+// Property related to the item's fatalInjuryCoef characteristic.
+// Values found: -1
 fatalInjuryCoef = <value>;
 
-// Still investigating
-female = <value>;
-
-// Still investigating
+// Property related to the item's flareAngleBias characteristic.
+// Values found: 40
 flareAngleBias = <value>;
 
-// Still investigating
+// Property related to the item's glasses characteristic.
 glasses = <value>;
 
-// Still investigating
+// Property related to the item's graphName characteristic.
 graphName = <value>;
 
-// Still investigating
+// Property related to the item's graphname characteristic.
+// Values found: dz\anims\workspaces\infected\infected_main\infected.agr
 graphname = <value>;
 
-// Still investigating
+// Property related to the item's handGunBone characteristic.
+// Values found: RightHand
 handGunBone = <value>;
 
-// Still investigating
+// Property related to the item's hasIcon characteristic.
+// Values found: 1
 hasIcon = <value>;
 
-// Still investigating
-head = <value>;
-
-// Still investigating
+// Property related to the item's headSelectionsToHide[] characteristic.
+// Values found: Clipping_headCover_improvised, Clipping_NVGHeadstrap
 headSelectionsToHide[] = <value>;
 
-// Still investigating
+// Property related to the item's healthLabels[] characteristic.
+// Values found: 0, 0.5, 1, 0.30000001, 0.69999999
 healthLabels[] = <value>;
 
-// Still investigating
+// Property related to the item's healthLevels[] characteristic.
+// Values found: , 0.5, DZ\gear\containers\data\WaterproofBag_damage.rvmat, DZ\characters\shoes\Data\medievalboots.rvmat, DZ\Characters\gloves\data\WoolGloves.rvmat, DZ\characters\pants\Data\Chainmail_Leggings_damage.rvmat, DZ\characters\belts\data\HipPack.rvmat, DZ\characters\shoes\Data\medievalboots_damage.rvmat, DZ\characters\vests\Data\chestplate.rvmat, DZ\Characters\gloves\data\WoolGloves_damage.rvmat, DZ\characters\belts\data\HipPack_destruct.rvmat, DZ\Characters\gloves\data\WoolGloves_destruct.rvmat, 1, DZ\characters\vests\Data\chestplate_destruct.rvmat, DZ\characters\pants\Data\Chainmail_Leggings.rvmat
 healthLevels[] = <value>;
 
-// Still investigating
-heatIsolation = <value>;
-
-// Still investigating
+// Property related to the item's hiddenSelectionsMaterials[] characteristic.
+// Values found: , dz\characters\heads\data\m_Taiki\hhl_m_Taiki_hair.rvmat, DZ\Characters\gloves\data\leather_gloves_brown.rvmat, DZ\characters\tops\data\long_sleeve_shirt.rvmat, DZ\characters\vests\data\Vest_LeatherStorage_black.rvmat, DZ\characters\glasses\data\EyeMask_Decorative.rvmat, dz\characters\headgear\data\Hat_Leather_black.rvmat, dz\characters\pants\data\Skirt.rvmat, DZ\characters\belts\data\belt_leather_black.rvmat, dz\characters\zombies\data\Mummy.rvmat, DZ\characters\shoes\data\Shoes_LeatherMoccasins_beige.rvmat, dz\characters\backpacks\data\CanvasBag_medical.rvmat
 hiddenSelectionsMaterials[] = <value>;
 
-// Still investigating
+// Property related to the item's hiddenSelectionsTextures[] characteristic.
+// Values found: , dz\characters\shoes\data\medievalboots_co.paa, DZ\characters\glasses\data\EyeMask_Yellow_CO.paa, \dz\gear\containers\data\WaterproofBag_yellow_co.paa, dz\characters\heads\data\m_Taiki\hhl_m_Taiki_hair_ca.paa, dz\characters\zombies\data\Mummy_co.paa, \DZ\characters\tops\Data\chainmail_co.paa, \dz\characters\vests\data\tacticalvest2_olive_co.paa, \dz\characters\gloves\Data\woolgloves_white_co.paa, \dz\characters\pants\data\Chainmail_Leggings_CO.paa, \DZ\characters\headgear\data\mich2001_CO.paa, \dz\characters\belts\data\HipPack_party_CO.paa
 hiddenSelectionsTextures[] = <value>;
 
-// Still investigating
+// Property related to the item's hiddenSelections[] characteristic.
+// Values found: camoFemale, camoGround, personality, camoMale, camo, beard, hair
 hiddenSelections[] = <value>;
 
-// Still investigating
+// Property related to the item's hideSelectionsByinventorySlot characteristic.
+// Values found: 1
 hideSelectionsByinventorySlot = <value>;
 
-// Still investigating
+// Property related to the item's hitpoint characteristic.
+// Values found: bulb
 hitpoint = <value>;
 
-// Still investigating
-hitpoints = <value>;
-
-// Still investigating
+// Property related to the item's htMax characteristic.
+// Values found: 1800
 htMax = <value>;
 
-// Still investigating
+// Property related to the item's htMin characteristic.
+// Values found: 60
 htMin = <value>;
 
-// Still investigating
+// Property related to the item's humanBonePairs[] characteristic.
 humanBonePairs[] = <value>;
 
-// Still investigating
-id = <value>;
-
-// Still investigating
+// Property related to the item's idleSounds characteristic.
+// Values found: zombie_idle
 idleSounds = <value>;
 
-// Still investigating
+// Property related to the item's ikSetup characteristic.
 ikSetup = <value>;
 
-// Still investigating
+// Property related to the item's initPhase characteristic.
+// Values found: 0, 1
 initPhase = <value>;
 
-// Still investigating
+// Property related to the item's inventorySlot characteristic.
 inventorySlot = <value>;
 
-// Still investigating
+// Property related to the item's inventorySlot[] characteristic.
+// Values found: Legs, Belt_Left, Body, Gloves, Feet, NVG, helmetFlashlight, Back, Head, VestGrenadeD
 inventorySlot[] = <value>;
 
-// Still investigating
+// Property related to the item's inventorySlotsCoefs[] characteristic.
+// Values found: 1
 inventorySlotsCoefs[] = <value>;
 
-// Still investigating
+// Property related to the item's inventorySlots[] characteristic.
+// Values found: Feet
 inventorySlots[] = <value>;
 
-// Still investigating
+// Property related to the item's isStrap characteristic.
+// Values found: 1
 isStrap = <value>;
 
-// Still investigating
+// Property related to the item's item characteristic.
 item = <value>;
 
-// Still investigating
+// Property related to the item's itemInfo[] characteristic.
+// Values found: Vest, Legs, Body, Feet, Eyewear, Hips, Back, Gloves, Headgear, Clothing
 itemInfo[] = <value>;
 
-// Size of the item in inventory where {x,y} represent width and height respectively.
-itemSize[] = {2, 2};
-
-// Still investigating
-itemsCargoSize[] = <value>;
-
-// Still investigating
+// Property related to the item's languages[] characteristic.
 languages[] = <value>;
 
-// Still investigating
+// Property related to the item's launcherBone characteristic.
+// Values found: launcher
 launcherBone = <value>;
 
-// Still investigating
+// Property related to the item's lookAtFilterSpeed characteristic.
+// Values found: 1.5700001
 lookAtFilterSpeed = <value>;
 
-// Still investigating
+// Property related to the item's lookAtFilterTimeout characteristic.
+// Values found: 0.5
 lookAtFilterTimeout = <value>;
 
-// Loot category the item belongs to.
+// Property related to the item's lootCategory characteristic.
+// Values found: Crafted, Eyewear
 lootCategory = "Clothing";
 
-// Still investigating
+// Property related to the item's lootTag[] characteristic.
+// Values found: Civilian, Military_east
 lootTag[] = <value>;
 
-// Still investigating
+// Property related to the item's mFact characteristic.
+// Values found: 1
 mFact = <value>;
 
-// Still investigating
-male = <value>;
-
-// Still investigating
+// Property related to the item's mask[] characteristic.
+// Values found: 0.5, Face_LipLowerLeft, Face_BrowSideLeft, Face_CornerLeft, Face_CheekFrontLeft, Face_CheekUpperRight, Face_NostrilLeft, Face_ChopRight, Face_CheekSideLeft, Face_CornerRight, Face_CheekUpperLeft, Face_Jowl, Face_Jawbone, Face_LipUpperRight, Face_LipLowerRight
 mask[] = <value>;
 
-// Still investigating
+// Property related to the item's mat[] characteristic.
+// Values found: DZ\characters\heads\data\m_Taiki\hhl_m_Taiki_body_bearded_injury.rvmat, DZ\characters\heads\data\m_Taiki\hhl_m_Taiki_body_shaved.rvmat, DZ\characters\heads\data\m_Taiki\hhl_m_Taiki_body_unshaved_injury.rvmat, DZ\characters\heads\data\m_Taiki\hhl_m_Taiki_body_unshaved.rvmat, DZ\characters\heads\data\m_Taiki\hhl_m_Taiki_body_shaved_injury.rvmat, dz\characters\zombies\data\jacket.rvmat, DZ\characters\heads\data\m_Taiki\hhl_m_Taiki_body_bearded_injury2.rvmat, dz\characters\zombies\data\jacket_injury.rvmat, DZ\characters\heads\data\m_Taiki\hhl_m_Taiki_body_unshaved_injury2.rvmat, DZ\characters\heads\data\m_Taiki\hhl_m_Taiki_body_bearded.rvmat, DZ\characters\heads\data\m_Taiki\hhl_m_Taiki_body_shaved_injury2.rvmat
 mat[] = <value>;
 
-// Still investigating
-mat_blood = <value>;
-
-// Still investigating
-mat_normal = <value>;
-
-// Still investigating
-material = <value>;
-
-// Still investigating
+// Property related to the item's max characteristic.
 max = <value>;
 
-// Still investigating
+// Property related to the item's meleeAmmo characteristic.
+// Values found: MeleeMummyInfected
 meleeAmmo = <value>;
 
-// Still investigating
+// Property related to the item's memberSelections[] characteristic.
+// Values found: Clipping_ZmijovkaCap, Clipping_headCover_improvised, Clipping_BeanieHat, Clipping_RadarCap, Clipping_MedicalScrubs_Hat
 memberSelections[] = <value>;
 
-// Still investigating
+// Property related to the item's memoryPointAim characteristic.
+// Values found: aimPoint
 memoryPointAim = <value>;
 
-// Still investigating
+// Property related to the item's memoryPointAimingAxis characteristic.
+// Values found: aiming_axis
 memoryPointAimingAxis = <value>;
 
-// Still investigating
+// Property related to the item's memoryPointCamera characteristic.
+// Values found: eyeScope
 memoryPointCamera = <value>;
 
-// Still investigating
+// Property related to the item's memoryPointCameraTarget characteristic.
+// Values found: camera
 memoryPointCameraTarget = <value>;
 
-// Still investigating
+// Property related to the item's memoryPointCommonDamage characteristic.
+// Values found: l_femur_hit
 memoryPointCommonDamage = <value>;
 
-// Still investigating
+// Property related to the item's memoryPointHeadAxis characteristic.
+// Values found: head_axis
 memoryPointHeadAxis = <value>;
 
-// Still investigating
+// Property related to the item's memoryPointLStep characteristic.
+// Values found: footstepL
 memoryPointLStep = <value>;
 
-// Still investigating
+// Property related to the item's memoryPointLeaningAxis characteristic.
+// Values found: leaning_axis
 memoryPointLeaningAxis = <value>;
 
-// Still investigating
+// Property related to the item's memoryPointRStep characteristic.
+// Values found: footstepR
 memoryPointRStep = <value>;
 
-// Still investigating
+// Property related to the item's meshObject characteristic.
+// Values found: dz\characters\zombies\z_hermit_m.xob
 meshObject = <value>;
 
-// Still investigating
+// Property related to the item's mfMax characteristic.
+// Values found: 0
 mfMax = <value>;
 
-// Still investigating
+// Property related to the item's min characteristic.
 min = <value>;
 
-// Still investigating
+// Property related to the item's minDistance characteristic.
+// Values found: 0
 minDistance = <value>;
 
-// Still investigating
+// Property related to the item's minScopeZoom characteristic.
 minScopeZoom = <value>;
 
-// Still investigating
-model = <value>;
-
-// Still investigating
+// Property related to the item's modelOptics characteristic.
+// Values found: -
 modelOptics = <value>;
 
-// Still investigating
+// Property related to the item's moveAnimNames[] characteristic.
+// Values found: idle
 moveAnimNames[] = <value>;
 
-// Still investigating
+// Property related to the item's movementSpeedMapping[] characteristic.
+// Values found: 2.9000001, 0, 1.5, 8.8999996
 movementSpeedMapping[] = <value>;
 
-// Still investigating
+// Property related to the item's name characteristic.
 name = <value>;
 
-// Still investigating
+// Property related to the item's noEyewear characteristic.
+// Values found: 1
 noEyewear = <value>;
 
-// Still investigating
+// Property related to the item's noMask characteristic.
+// Values found: 1
 noMask = <value>;
 
-// Still investigating
+// Property related to the item's noNVStrap characteristic.
+// Values found: 1
 noNVStrap = <value>;
 
-// Still investigating
+// Property related to the item's noise characteristic.
+// Values found: ZombieStepNoise
 noise = <value>;
 
-// Still investigating
+// Property related to the item's onlyInIronsight characteristic.
 onlyInIronsight = <value>;
 
 // Indicates if the item can be opened or closed.
+// Values found: 0
 openable = 0;
 
-// Still investigating
+// Property related to the item's opticsZoomInit characteristic.
+// Values found: 0.52359998
 opticsZoomInit = <value>;
 
-// Still investigating
+// Property related to the item's opticsZoomMax characteristic.
+// Values found: 0.52359998
 opticsZoomMax = <value>;
 
-// Still investigating
+// Property related to the item's opticsZoomMin characteristic.
+// Values found: 0.52359998
 opticsZoomMin = <value>;
 
-// Still investigating
+// Property related to the item's pitch characteristic.
 pitch = <value>;
 
-// Still investigating
+// Property related to the item's pitchAngle characteristic.
+// Values found: 45
 pitchAngle = <value>;
 
-// Still investigating
+// Property related to the item's playerSlots[] characteristic.
+// Values found: Slot_Eyewear, Slot_Back, Slot_Headgear, Slot_Vest
 playerSlots[] = <value>;
 
-// Still investigating
+// Property related to the item's plugType characteristic.
+// Values found: 1
 plugType = <value>;
 
-// Still investigating
+// Property related to the item's position characteristic.
+// Values found: beamStart
 position = <value>;
 
-// Still investigating
+// Property related to the item's protocol characteristic.
 protocol = <value>;
 
-// Still investigating
+// Property related to the item's quantityMinMaxCoef[] characteristic.
 quantityMinMaxCoef[] = <value>;
 
-// Still investigating
+// Property related to the item's quickBarBonus characteristic.
+// Values found: 1
 quickBarBonus = <value>;
 
-// Still investigating
+// Property related to the item's radius characteristic.
+// Values found: 20
 radius = <value>;
 
-// Still investigating
+// Property related to the item's ragQuantity characteristic.
+// Values found: 3, 4, 1
 ragQuantity = <value>;
 
-// Still investigating
+// Property related to the item's randomQuantity characteristic.
+// Values found: 4
 randomQuantity = <value>;
 
 // Action range of the item, typically related to weapons.
+// Values found: 3.3
 range = 100;
 
-// Still investigating
+// Property related to the item's rarityUrban characteristic.
+// Values found: -1
 rarityUrban = <value>;
 
-// Still investigating
+// Property related to the item's repairCosts[] characteristic.
+// Values found: , 30, 20, 25
 repairCosts[] = <value>;
 
-// Still investigating
-repairableWithKits[] = <value>;
-
-// Still investigating
+// Property related to the item's repeatable characteristic.
+// Values found: 1
 repeatable = <value>;
 
-// Still investigating
+// Property related to the item's requiredAddons[] characteristic.
+// Values found: DZ_Characters, DZ_Gear_Optics
 requiredAddons[] = <value>;
 
-// Still investigating
+// Property related to the item's requiredVersion characteristic.
+// Values found: 0.1
 requiredVersion = <value>;
 
-// Still investigating
+// Property related to the item's reversed characteristic.
+// Values found: 1
 reversed = <value>;
 
-// Still investigating
+// Property related to the item's rotationFlags characteristic.
+// Values found: 2, 17, 34, 32
 rotationFlags = <value>;
 
-// Scope or range of the item, typically related to visibility or use.
+// Property related to the item's scope characteristic.
+// Values found: 2
 scope = 2;
 
-// Still investigating
+// Property related to the item's selection characteristic.
+// Values found: bulb
 selection = <value>;
 
-// Still investigating
+// Property related to the item's selectionBodyWound characteristic.
+// Values found: injury_body
 selectionBodyWound = <value>;
 
-// Still investigating
+// Property related to the item's selectionEyelid characteristic.
+// Values found: Eyelids
 selectionEyelid = <value>;
 
-// Still investigating
+// Property related to the item's selectionHeadHide characteristic.
 selectionHeadHide = <value>;
 
-// Still investigating
+// Property related to the item's selectionHeadWound characteristic.
+// Values found: injury_head
 selectionHeadWound = <value>;
 
-// Still investigating
+// Property related to the item's selectionLArmWound characteristic.
+// Values found: injury_hands
 selectionLArmWound = <value>;
 
-// Still investigating
+// Property related to the item's selectionLBrow characteristic.
+// Values found: lBrow
 selectionLBrow = <value>;
 
-// Still investigating
+// Property related to the item's selectionLLegWound characteristic.
+// Values found: injury_legs
 selectionLLegWound = <value>;
 
-// Still investigating
+// Property related to the item's selectionLMouth characteristic.
+// Values found: lMouth
 selectionLMouth = <value>;
 
-// Still investigating
+// Property related to the item's selectionLip characteristic.
+// Values found: LLip
 selectionLip = <value>;
 
-// Still investigating
+// Property related to the item's selectionMBrow characteristic.
+// Values found: mBrow
 selectionMBrow = <value>;
 
-// Still investigating
+// Property related to the item's selectionMMouth characteristic.
+// Values found: mMouth
 selectionMMouth = <value>;
 
-// Still investigating
+// Property related to the item's selectionNeckHide characteristic.
 selectionNeckHide = <value>;
 
-// Still investigating
+// Property related to the item's selectionPersonality characteristic.
+// Values found: personality
 selectionPersonality = <value>;
 
-// Still investigating
+// Property related to the item's selectionRArmWound characteristic.
+// Values found: injury_hands
 selectionRArmWound = <value>;
 
-// Still investigating
+// Property related to the item's selectionRBrow characteristic.
+// Values found: rBrow
 selectionRBrow = <value>;
 
-// Still investigating
+// Property related to the item's selectionRLegWound characteristic.
+// Values found: injury_legs
 selectionRLegWound = <value>;
 
-// Still investigating
+// Property related to the item's selectionRMouth characteristic.
+// Values found: rMouth
 selectionRMouth = <value>;
 
-// Still investigating
+// Property related to the item's simpleHiddenSelections[] characteristic.
+// Values found: hide_headgear, hide, beard, Clipping_Gasmask, hair, hide_mask
 simpleHiddenSelections[] = <value>;
 
-// Still investigating
+// Property related to the item's simpleSelectionName[] characteristic.
+// Values found: Clipping_BeanieHat
 simpleSelectionName[] = <value>;
 
-// Type of simulation applied to the item in the game engine.
+// Property related to the item's simulation characteristic.
+// Values found: dayzinfected, ProxySubpart, clothing
 simulation = "itemSim";
 
-// Still investigating
+// Property related to the item's skeletonName characteristic.
+// Values found: hermit_newbindpose.xob
 skeletonName = <value>;
 
-// Still investigating
+// Property related to the item's slot characteristic.
 slot = <value>;
 
-// Still investigating
-soundAttType = <value>;
-
-// Still investigating
+// Property related to the item's soundImpactType characteristic.
+// Values found: metal, default, glass
 soundImpactType = <value>;
 
-// Still investigating
-soundLookupTable = <value>;
-
-// Still investigating
-soundSet = <value>;
-
-// Still investigating
+// Property related to the item's soundVoicePriority characteristic.
+// Values found: 10
 soundVoicePriority = <value>;
 
-// Still investigating
+// Property related to the item's soundVoiceType characteristic.
+// Values found: metalhelmet
 soundVoiceType = <value>;
 
-// Still investigating
-soundset = <value>;
-
-// Still investigating
+// Property related to the item's source characteristic.
+// Values found: user
 source = <value>;
 
-// Still investigating
+// Property related to the item's speaker characteristic.
 speaker = <value>;
 
-// Still investigating
+// Property related to the item's speedMultiplier characteristic.
 speedMultiplier = <value>;
 
-// Still investigating
+// Property related to the item's spottedSounds characteristic.
+// Values found: zombie_spotted
 spottedSounds = <value>;
 
-// Still investigating
+// Property related to the item's stanceName characteristic.
+// Values found: crawl
 stanceName = <value>;
 
-// Still investigating
+// Property related to the item's startNode characteristic.
 startNode = <value>;
 
-// Still investigating
+// Property related to the item's startnode characteristic.
+// Values found: MasterControl
 startnode = <value>;
 
-// Still investigating
+// Property related to the item's storageCategory characteristic.
+// Values found: 3
 storageCategory = <value>;
 
-// Still investigating
+// Property related to the item's strength characteristic.
+// Values found: 10
 strength = <value>;
 
-// Still investigating
+// Property related to the item's supplyRadius characteristic.
 supplyRadius = <value>;
 
-// Still investigating
+// Property related to the item's tBody characteristic.
+// Values found: 37
 tBody = <value>;
 
-// Still investigating
+// Property related to the item's teamName characteristic.
 teamName = <value>;
 
-// Still investigating
+// Property related to the item's tex[] characteristic.
 tex[] = <value>;
 
-// Still investigating
-texture = <value>;
-
-// Still investigating
+// Property related to the item's threat[] characteristic.
+// Values found: 0.050000001, 1
 threat[] = <value>;
 
-// Still investigating
+// Property related to the item's time characteristic.
+// Values found: 1.1
 time = <value>;
 
-// Still investigating
+// Property related to the item's transferToAttachmentsCoef characteristic.
+// Values found: 3, 0.5
 transferToAttachmentsCoef = <value>;
 
-// Still investigating
+// Property related to the item's transferToGlobalCoef characteristic.
+// Values found: 0.1
 transferToGlobalCoef = <value>;
 
-// Still investigating
+// Property related to the item's transferToZonesCoefs[] characteristic.
+// Values found: 0.1
 transferToZonesCoefs[] = <value>;
 
-// Still investigating
+// Property related to the item's transferToZonesNames[] characteristic.
+// Values found: RightLeg
 transferToZonesNames[] = <value>;
 
-// General type or category of the item.
+// Property related to the item's type characteristic.
+// Values found: compound, sound
 type = "Clothing";
 
-// Still investigating
+// Property related to the item's units[] characteristic.
+// Values found: , BaseballCap_Beige, Hoodie_Blue, MotoHelmet_Red, FlatCap_Black, Jeans_Green, FemaleTorso, MaleHands, Hoodie_Brown, Hermit_NewAI, TacticalVest, CowboyHat_darkBrown, BaseballCap_CMMG_Black, MotoHelmet_Green, BoonieHat_orange
 units[] = <value>;
 
-// Still investigating
+// Property related to the item's updateInterval characteristic.
+// Values found: 40
 updateInterval = <value>;
 
-// Still investigating
+// Property related to the item's useCursor characteristic.
 useCursor = <value>;
 
-// Still investigating
+// Property related to the item's varWetMax characteristic.
+// Values found: 0.249, 1, 0.49000001, 0.79000002
 varWetMax = <value>;
 
-// Still investigating
+// Property related to the item's variants[] characteristic.
 variants[] = <value>;
 
-// Still investigating
+// Property related to the item's vehicleClass characteristic.
+// Values found: Clothing, Zombie
 vehicleClass = <value>;
 
-// Modifier affecting the item's visibility in the game.
-visibilityModifier = 1.0;
-
-// Still investigating
+// Property related to the item's vizem[] characteristic.
+// Values found: dz\anims\data\anim\fce\vizem\y.rtm, dz\anims\data\anim\fce\vizem\v.rtm, dz\anims\data\anim\fce\vizem\i.rtm, dz\anims\data\anim\fce\vizem\a.rtm, dz\anims\data\anim\fce\vizem\f.rtm, dz\anims\data\anim\fce\Neutral.rtm, dz\anims\data\anim\fce\vizem\e2.rtm, dz\anims\data\anim\fce\vizem\m.rtm
 vizem[] = <value>;
 
-// Still investigating
+// Property related to the item's voiceType characteristic.
 voiceType = <value>;
 
-// Still investigating
+// Property related to the item's weaponBone characteristic.
+// Values found: weapon
 weaponBone = <value>;
 
-// Still investigating
+// Property related to the item's weapons[] characteristic.
 weapons[] = <value>;
 
-// Weight of the item.
-weight = 0.3;
-
-// Still investigating
+// Property related to the item's woman characteristic.
+// Values found: 1
 woman = <value>;
 
-// Still investigating
+// Property related to the item's yawAngle characteristic.
+// Values found: 0
 yawAngle = <value>;
 
-// Still investigating
+// Property related to the item's zombieLoot characteristic.
+// Values found: civilian
 zombieLoot = <value>;
+
