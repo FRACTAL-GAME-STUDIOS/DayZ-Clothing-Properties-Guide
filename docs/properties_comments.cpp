@@ -2,7 +2,7 @@ class CfgVehicles
 {
 	// scope: Determines visibility/accessibility in game and editor.
 	scope[] = 1;
-
+//comentario
 	// displayName: Name displayed in-game.
 	displayName[] = "$STR_CfgVehicles_PoliceVest0";
 
